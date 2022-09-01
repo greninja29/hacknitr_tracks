@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hacknitr_tracks/static/css/main.681ffb14.css",
+    "main.js": "/hacknitr_tracks/static/js/main.9309d8fe.js",
+    "static/js/787.d3befce1.chunk.js": "/hacknitr_tracks/static/js/787.d3befce1.chunk.js",
+    "index.html": "/hacknitr_tracks/index.html",
+    "main.681ffb14.css.map": "/hacknitr_tracks/static/css/main.681ffb14.css.map",
+    "main.9309d8fe.js.map": "/hacknitr_tracks/static/js/main.9309d8fe.js.map",
+    "787.d3befce1.chunk.js.map": "/hacknitr_tracks/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.681ffb14.css",
+    "static/js/main.9309d8fe.js"
+  ]
+}
